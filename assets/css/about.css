@@ -1,0 +1,11 @@
+.header{
+    background-image: url('assets/img/bg/bg_blog-decor.jpg');
+    
+}
+.img{
+    color: rgb(3, 92,3);
+}
+.twenty{
+    display: flex;
+    margin-left: 15%;
+}
