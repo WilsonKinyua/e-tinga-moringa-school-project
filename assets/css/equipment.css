@@ -76,3 +76,34 @@ display: flex;
 .declan{
     background-color: grey;
 }
+.boom{
+    background-color: grey;
+    margin-left: 686px;
+    margin-right:183px;
+    margin-top:15px;
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.dec{
+    display: flex;
+    margin-left: 60px; 
+}
+.Total{
+    border: solid black;
+    background-color: white;
+    margin-left: 150px;
+}
+#reserve{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin: 1px;
+    margin-left: 150px;
+    
+}
+.brand{
+    display: flex;
+}
