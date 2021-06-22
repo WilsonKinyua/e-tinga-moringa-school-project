@@ -1,11 +1,26 @@
-.header{
-    background-image: url('assets/img/bg/bg_blog-decor.jpg');
-    
+#three{
+    text-align: center;
+    background-color: rgb(3, 92, 3);
+    margin-right: 550px;
+    padding: 8px 15px 8px 15px;
+    border-radius: 9px 0px 9px 0px;
 }
-.img{
-    color: rgb(3, 92,3);
+.main{
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-top: 40px;
+    padding-bottom: 30px;
 }
-.twenty{
-    display: flex;
+#history{
+      display: flex;
+      margin-right: 10%;
+      justify-content: space-around;
+}
+h3{
+    color: rgb(3, 92, 3);
+    text-align: center;
+}
+ul{
     margin-left: 15%;
 }
+    
