@@ -1,0 +1,89 @@
+.contact-block{
+box-shadow: #333;
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin: 20px;
+}
+#contact-details{
+ display: block;
+ flex-direction: column;
+ background-color:  green;
+ width: 30%;
+ height: 70%;
+ padding-left: 10%;
+ text-align: center;
+}
+.location{
+    display: flex;
+}
+.call{
+    display: flex;
+}
+.hour{
+    display: flex;
+}
+.mail{
+    display: flex;
+}
+hr{
+    width: 50%;
+    align-items: center;
+}
+#iconlocation-image{
+    display: flex;
+    width: 10%;
+    padding-right: 15px;
+
+}
+#text-location{
+justify-content: space-between;
+}
+#icon-cal{
+    display: flex;
+    width: 10%;
+    padding-right: 15px;
+}
+#text-cal{
+justify-content: space-between;
+}
+#hours-icon{
+    display: flex;
+    width: 10%;
+    padding-right: 15px;
+}
+#text-hour{
+justify-content: space-between;
+}
+#mail-icon{
+    display: flex;
+    width: 10%;
+    padding-right: 15px;
+}
+#mail-text{
+justify-content: space-between;
+}
+
+#form{
+display: block;
+}
+.form-detail{
+    padding: 20px;
+}
+.form.form-detail{
+    padding-bottom: 15px;
+}
+.formlabel{
+    display: block;
+}
+.forminput[type="text"],.form-detailtextare{
+padding: 8px;
+width: 100%;
+}
+button[type="submit"]{
+    background-color: #333;
+    color: #fff;
+    padding: none;
+    border: none;
+}
