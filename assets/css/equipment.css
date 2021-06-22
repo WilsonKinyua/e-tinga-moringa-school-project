@@ -34,13 +34,17 @@ margin top: 5000px;
     padding-top: 50px;
 
 
-
-
 }
 .yu{
 display: flex;
 }
 .declan{
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    
+}
+.declann{
     display: flex;
     justify-content: space-between;
     padding: 1%;
@@ -61,6 +65,10 @@ display: flex;
     color: white;
    
 }
+#declan{
+    padding-right: 70px;
+    color: white; 
+}
 .cate{
     padding-top: 20px;
     padding-right: 30px;
@@ -76,6 +84,10 @@ display: flex;
 }
 .declan{
     background-color: grey;
+}
+.declann{
+    background-color: gray;
+    margin-left: 40%;
 }
 .boom{
     background-color: grey;
