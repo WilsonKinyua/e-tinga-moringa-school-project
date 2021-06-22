@@ -70,6 +70,7 @@ display: flex;
     background-color: rgb(35, 95, 35);
     font-size: 30px;
     color: white;
+    flex-basis: 100px;
    
 
 }
@@ -84,6 +85,7 @@ display: flex;
     color:white;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 .dec{
     display: flex;
@@ -107,3 +109,12 @@ display: flex;
 .brand{
     display: flex;
 }
+.catee{
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    flex-grow: 56%;
+    background-color: white;
+    font-size: 30px;
+    color: white;
