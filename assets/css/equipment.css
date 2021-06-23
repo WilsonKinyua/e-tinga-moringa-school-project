@@ -141,26 +141,3 @@ margin top: 5000px;
     font-size: 30px;
     color: white;
 }
-
-@media screen and (max-width: 600px) {
-    .display-non {
-        display: none;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .small-device {
-        display: none;
-    }
-}
-
-
-/* @media screen and (min-width: 401px) and (max-width: 1024px) {
-    .small-device {
-        display: none;
-    }
-    /* hide it on larger screens 
-
-
-}
-*/
