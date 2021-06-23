@@ -1555,6 +1555,7 @@ body {
 .logo__link {
     display: block;
     position: relative;
+    text-decoration: none !important;
 }
 
 .support__link {
@@ -3158,7 +3159,7 @@ body.page-categories-2 .page-footer:before {
     margin-bottom: 70px;
     margin-bottom: 3.65vw;
     background-attachment: fixed;
-    background-image: url(../img/bg_contacts.jpg);
+    background-image: url('https://d2i9320pexmd8f.cloudfront.net/agriculture1406570829.jpg');
     background-position: left center;
     background-size: cover;
 }
@@ -3906,7 +3907,7 @@ body.page-categories-2 .page-footer:before {
     display: block;
     position: relative;
     padding: 52px 40px;
-    background-color: #146329;
+    background-color: #01340E;
 }
 
 .widjet {
@@ -5146,9 +5147,9 @@ body.page-categories-2 .page-footer:before {
     .section-about .section-title .uk-h2 br {
         display: none;
     }
-    .section-equipment {
-        margin-bottom: 30px;
-    }
+    /* .section-equipment {
+        margin-bottom: 3px;
+    } */
     .section-equipment .equipment-box {
         top: 30px;
     }
