@@ -1,5 +1,5 @@
-# E-tinga School Project
-#### Landing page of E-tinga website
+# E-tinga Moringa School Group Project
+#### E-tinga website
 #### Created By Wilson Kinyua Muthoni,Aron Langat,Edwin Kipchumba and Esther Moki on 23-06-2021
 ## Description
 This is a website that enables farmers hire farm equipment they are in need of at their own convenient time

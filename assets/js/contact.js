@@ -26,10 +26,10 @@ $form.validate({
         },
     },
     messages: {
-        name: "Please specify your name (only letters and spaces are allowed) 😃",
-        email: "Please give a valid email address 🤢",
+        name: "Please specify your name (only letters and spaces are allowed)",
+        email: "Please give a valid email address",
         subject: "Please enter the subject of the message!",
-        message: "Please fill me! 😥"
+        message: "Please fill me!"
     },
     submitHandler: function() {
         $successMsg.show();
