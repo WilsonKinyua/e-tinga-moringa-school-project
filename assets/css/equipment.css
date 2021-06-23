@@ -26,50 +26,55 @@ border-radius: 1cm 0cm 1cm 0cm;
 margin top: 5000px;
 
 } */
-.roller{
+
+.roller {
     display: flex;
     justify-content: space-between;
     margin-right: 10%;
     margin-left: 10%;
     padding-top: 50px;
-
-
 }
-.yu{
-display: flex;
-}
-.declan{
+
+.yu {
     display: flex;
-    justify-content: space-between;
-    padding: 1%;
-    
 }
-.declann{
+
+.declan {
     display: flex;
     justify-content: space-between;
     padding: 1%;
 }
-.ju{
+
+.declann {
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+.ju {
     border: solid grey;
     background-color: white;
 }
-#ju{
+
+#ju {
     background-color: black;
     text-align: center;
     color: white;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
 }
-#declan{
+
+#declan {
     padding-right: 70px;
     color: white;
-   
 }
-#declan{
+
+#declan {
     padding-right: 70px;
-    color: white; 
+    color: white;
 }
-.cate{
+
+.cate {
     padding-top: 20px;
     padding-right: 30px;
     padding-left: 30px;
@@ -79,36 +84,40 @@ display: flex;
     font-size: 30px;
     color: white;
     flex-basis: 100px;
-   
-
 }
-.declan{
+
+.declan {
     background-color: grey;
 }
-.declann{
+
+.declann {
     background-color: gray;
     margin-left: 40%;
 }
-.boom{
+
+.boom {
     background-color: grey;
     margin-left: 686px;
-    margin-right:183px;
-    margin-top:15px;
-    color:white;
+    margin-right: 183px;
+    margin-top: 15px;
+    color: white;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: 20px;
 }
-.dec{
+
+.dec {
     display: flex;
-    margin-left: 60px; 
+    margin-left: 60px;
 }
-.Total{
+
+.Total {
     border: solid black;
     background-color: white;
     margin-left: 150px;
 }
-#reserve{
+
+#reserve {
     background-color: black;
     color: white;
     text-align: center;
@@ -116,12 +125,13 @@ display: flex;
     padding-bottom: 0.5%;
     margin: 1px;
     margin-left: 150px;
-    
 }
-.brand{
+
+.brand {
     display: flex;
 }
-.catee{
+
+.catee {
     padding-top: 20px;
     padding-right: 30px;
     padding-left: 30px;
