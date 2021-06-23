@@ -48,3 +48,16 @@ h3 {
 ul {
     margin-left: 15%;
 }
+
+@media screen and (max-width: 600px) {
+    .end {
+        display: none;
+    }
+    #history {
+        font-size: 14px !important;
+    }
+    #history div {
+        margin: 20px;
+        text-align: center;
+    }
+}
