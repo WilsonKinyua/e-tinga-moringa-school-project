@@ -1,28 +1,30 @@
-
-.mission,.vision{
+.mission,
+.vision {
     text-align: center;
     color: orange;
     font-size: 30px;
     padding-top: 20px;
-
 }
-.main{
+
+.main {
     display: flex;
     margin-right: 10%;
     margin-left: 10%;
     padding-top: 40px;
     padding-bottom: 30px;
 }
-.pic{
-    padding-top: 50px;
-     height:10px;
-     padding-right: 20px;
 
+.pic {
+    padding-top: 50px;
+    height: 10px;
+    padding-right: 20px;
 }
-#tenth{
+
+#tenth {
     padding-bottom: 50px;
 }
-.end{
+
+.end {
     display: flex;
     margin-left: 10%;
     justify-content: space-evenly;
@@ -31,16 +33,18 @@
     box-shadow: 5px 5px 5px 5px;
     margin-bottom: 15px;
 }
-#history{
-      display: flex;
-      margin-right: 10%;
-      justify-content: space-around;
+
+#history {
+    display: flex;
+    margin-right: 10%;
+    justify-content: space-around;
 }
-h3{
+
+h3 {
     color: rgb(3, 92, 3);
     text-align: center;
 }
-ul{
+
+ul {
     margin-left: 15%;
 }
-    
