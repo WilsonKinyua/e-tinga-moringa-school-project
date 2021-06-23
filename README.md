@@ -1,26 +1,40 @@
 # E-tinga Moringa School Group Project
 #### E-tinga website
-#### Created By Wilson Kinyua Muthoni,Aron Langat,Edwin Kipchumba and Esther Moki on 23-06-2021
+#### Created By Wilson Kinyua Muthoni,Aron Langat,Edwin Kipchumba and Esther Moki on 21-06-2021
 ## Description
-This is a website that enables farmers hire farm equipment they are in need of at their own convenient time
-## Setup/Installation Requirements
+
+E-Tinga is a project that employs modern technology channels to allow farmers access farm mechanization. One of these being its online-based platforms that enable farmers to order for services as groups or individuals using hand gadgets such as mobile phones, tablets,s or computers. This accessibility enables even small-scale farmers to enjoy farming equipment on short-term leases. Etinga Community Model Concept works by allowing farmers to register for mechanization services as groups through already established units such as NGOs, Chama, SACCO, Co-operative Societies, or Churches.
+
+## Setup/Installation Requirements 😃
 * Git
 * Web-browser or your choice
 * Github
 ## Technologies Used
- The following languages have been used on this project:
- * HTML
- * CSS
- * javascript
+ * The following languages have been used on this project:
+
+<p align="left"> 
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+ <a href="https://www.w3.org/html/" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ </a> 
+ </p>
+
 ## Setup/Installation Requirements
 
-* Live link to view the project <a href="https://e-tinga.netlify.app/">View E-tinga project</a>
+* Live link to view the project <a href="https://wilsonkinyua.github.io/e-tinga-moringa-school-project/">View E-tinga project</a>
 ## Some images used
-<img src="./assets/screenshots/one.png" alt="screenshot" />
-<img src="./assets/screenshots/two.png" alt="screenshot" />
-<img src="./assets/screenshots/three.png" alt="screenshot" />
-<img src="./assets/screenshots/four.png" alt="screenshot" />
-<img src="./assets/screenshots/five.png" alt="screenshot" />
+<img src="./assets/screenshots/1.png" alt="screenshot" />
+<img src="./assets/screenshots/2.png" alt="screenshot" />
+<img src="./assets/screenshots/3.png" alt="screenshot" />
+<img src="./assets/screenshots/4.png" alt="screenshot" />
+<img src="./assets/screenshots/5.png" alt="screenshot" />
+<img src="./assets/screenshots/6.png" alt="screenshot" />
+<img src="./assets/screenshots/8.png" alt="screenshot" />
 
 ## Known Bugs
  So far so good there are no bugs related to this project 😎
