@@ -1,0 +1,58 @@
+.body{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    border: solid rgb(129, 123, 123);
+    box-shadow: 7px 7px 7px 7px;
+
+
+}
+.container {
+    position: relative;
+    text-align: center;
+   
+  }
+  
+  .topleft {
+    position: absolute;
+    top: 8px;
+    left: 200px;
+    font-size: 30px;
+  }
+  
+  img { 
+    height: auto;
+  }
+  .topright{
+      position: absolute;
+      top: 1px;
+      right: 205.1px;
+      font-size: 18px;
+      background-color: red;
+      margin-bottom: 3px;
+      margin-right:-9px;
+  }
+  .bottomleft{
+    position: absolute;
+    bottom: 1px;
+    left: 210px;
+    font-size: 18px; 
+    background-color:blue;
+    margin-bottom: 3px;
+    margin-left: -15px;
+  }
+  .container1{
+      position: absolute;
+      height: 10px;
+      width: 125px;
+      margin-left: 195px;
+
+  }
+  .table{
+      background-color: rgb(202, 195, 195);
+      text-align: center;
+  }
+  .border{
+      border: solid grey;
+      /* margin-right: 360px; */
+  }
