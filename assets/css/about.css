@@ -15,12 +15,15 @@
 }
 .pic{
     padding-top: 50px;
-     height:10px;
-     padding-right: 20px;
+    height:10px;
+    padding-right: 20px;
 
 }
 #tenth{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
+}
+.eleventh{
+    padding-bottom: 20px;
 }
 .end{
     display: flex;
