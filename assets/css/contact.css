@@ -3,8 +3,10 @@ box-shadow: #333;
 box-sizing: border-box;
 display: flex;
 flex-direction: row;
-justify-content: space-between;
-margin: 20px;
+padding-right: 30px;
+box-shadow: 5px 10px;
+border: 5px solid grey;
+padding: 10px;
 }
 #contact-details{
  display: block;
@@ -13,7 +15,6 @@ margin: 20px;
  width: 30%;
  height: 70%;
  padding-left: 10%;
- text-align: center;
 }
 .location{
     display: flex;
@@ -67,23 +68,38 @@ justify-content: space-between;
 
 #form{
 display: block;
+padding-left: 10px;
+padding: 20px;
 }
-.form-detail{
-    padding: 20px;
-}
-.form.form-detail{
-    padding-bottom: 15px;
+
+.form-details{
+    padding-bottom: 30px;
 }
 .formlabel{
     display: block;
 }
-.forminput[type="text"],.form-detailtextare{
+#name-mail{
+    display: flex;
+    justify-content: space-between;
+}
+.form-detail{
 padding: 8px;
 width: 100%;
 }
-button[type="submit"]{
-    background-color: #333;
-    color: #fff;
-    padding: none;
+#button{
+    background-color: transparent;
+    color: white;
+    display: inline-block;
+    padding: 4px 6px;
     border: none;
+    text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+}
+#form input[type="button"]{
+background-color: #4CAF50;
+color: #333;
+padding: 5px 8px; 
+text-align: right;
 }
